@@ -1,0 +1,33 @@
+body {
+	background-color: gray;
+	text-decoration: underline;
+}
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: green;
+	border-width: 30px;
+	height: 20px;
+	width: 60%;
+}
+p {
+	background-image: url();
+	font-family: "Adventure", cursive;
+	font-size: 20px;
+	line-height: 40px;
+	border-style: outset;
+	border-color: blue;
+	border-width: 7px;
+}
+img {
+	width: 300px;
+	height: 300px;
+	border-style: double;
+	border-color: black;
+}
+h1 {
+	color: purple;
+	background-color: yellow;
+	background-size: 50px;
+	font-size: italic;
+}
